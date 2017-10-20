@@ -10,7 +10,7 @@ h1{
   border: 1px solid #999;
   margin-left: 8px;
   box-sizing: border-box;
-  float: left;
+  float: left;/* flotan hacia la izquierda*/
 
 }
 
@@ -21,4 +21,5 @@ img{
 
 p{
   outline: 1px solid orange;
+  color: blue;
 }
